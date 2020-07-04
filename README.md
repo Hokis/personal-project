@@ -1,5 +1,5 @@
 # personal-project
-一些个人项目/some personal projects
+一些个人项目/some of personal projects
 
 说明（Notes）：
  about-excel  关于操作Excel（handle with excel file）
